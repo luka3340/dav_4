@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261337192060",
+    "project_id": "dav-4-df387",
+    "storage_bucket": "dav-4-df387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261337192060:android:d39f78833ee1e15cf39bf9",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261337192060-vaq5r5ol8orqq0f2o1lun69al93sob0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-e7dTHcEwiOiO6Q1EvmuNzoMyhoJOahM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261337192060-vaq5r5ol8orqq0f2o1lun69al93sob0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
